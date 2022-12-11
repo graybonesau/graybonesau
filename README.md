@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Graybones!
-- 👀 I’m interested in website development, software development and game modding.
-- 🌱 I’m currently working with C++, Javascript, HTML and CSS.
-- 💞️ I’m looking to collaborate on projects involving website development, software development or game modding.
-- 📫 You can reach me on Discord @Graybones#7134 or by my email, au.graybones@gmail.com
-
-<!---
-graybonesau/graybonesau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 howdy, im graybones
+- 👀 im interested in website development, software development and game modding.
+- 🌱 working with lua, html and css and currently learning c++ and javascript
+- 💞️ not looking to collaborate on any projects but perhaps in the future when im more adept
+- 📫 you can reach me on discord @graybones#7134 or by my email au.graybones@gmail.com
