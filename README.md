@@ -1,4 +1,5 @@
 - 👋 howdy, im graybones
+- 💬 visit my socials at https://www.linktr.ee/graybonesau
 - 👀 im interested in web design and development, software engineering and game modding.
 - 🌱 working with lua, html and css and currently learning c++ and javascript
 - 💞️ not looking to collaborate on any projects but perhaps in the future when im more adept
