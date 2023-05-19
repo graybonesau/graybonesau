@@ -1,5 +1,5 @@
 - 👋 howdy, im graybones
-- 👀 im interested in website development, software development and game modding.
+- 👀 im interested in web design and development, software engineering and game modding.
 - 🌱 working with lua, html and css and currently learning c++ and javascript
 - 💞️ not looking to collaborate on any projects but perhaps in the future when im more adept
 - 📫 you can reach me on discord @graybones#7134 or by my email au.graybones@gmail.com
